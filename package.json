@@ -1,0 +1,27 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav1901/DEMOJS.git"
+  },
+  "author": "rodgepranav@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranav1901/DEMOJS/issues"
+  },
+  "homepage": "https://github.com/Pranav1901/DEMOJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
